@@ -1,0 +1,2 @@
+# premium-inventory-tracker-001-small-business-inventory-track
+Tired of spreadsheets that break, expensive inventory software you don't need, and trying to remember what's in stock while you're juggling everything else? The Small Business Inventory Tracker - Notion Template is your one intuitive command center.  This template eliminates the chaos of manual stock management by combining a clean, visual dashboar
